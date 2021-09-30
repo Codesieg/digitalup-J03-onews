@@ -4,31 +4,12 @@
     background-position: center;
     width: 50%;
     height: 100vh;
-    
 }
 
 .intro__title {
     color : white;
     font-weight: bold;
     background-image: url(../images/onews.svg);
-    background-size: 40px;
     background-repeat: no-repeat;
-    padding-left: 50px;
-    width: 100px;
-    line-height: 1em;
 
-}
-
-.content {
-    background-color: rgba(255, 255, 255, 0.319);
-    padding-top : 3px;
-    margin: 5px;
-}
-
-.content__title, .content__text {
-    text-align: right;
-}
-
-.bold {
-    font-weight: bold;
 }

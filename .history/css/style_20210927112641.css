@@ -25,10 +25,6 @@
     margin: 5px;
 }
 
-.content__title, .content__text {
-    text-align: right;
-}
-
 .bold {
     font-weight: bold;
 }
